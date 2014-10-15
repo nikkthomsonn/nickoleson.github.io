@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+background: #0B1529;
+}
+
+ 
+
+
+
+#foo {
+position: absolute;
+top: 50%;
+left: 50%;
+background: #fff;
+width: 300px;
+height: 300px;
+margin: -150px -150px;
+border-radius: 150px;
+animation: grow infinite alternate 3s;
+}
+
+#foo:hover {
+background: #f30;
+width: 500px;
+height: 500px;
+margin: -250px -250px;
+border-radius: 250px;
+
+}
+#foo2 {
+position: absolute;
+top: 50%;
+left: 50%;
+background: #fff;
+width: 600px;
+height: 600px;
+margin: -300px -300px;
+border-radius: 300px;
+animation: grow infinite alternate 3s;
+}
+
+#foo2:hover {
+background: #f30;
+width: 1000px;
+height: 1000px;
+margin: -500px -500px;
+border-radius: 500px;
+
+}
+}
+#foo1 {
+position: absolute;
+top: 50%;
+left: 50%;
+background: #fff;
+width: 1200px;
+height: 1200px;
+margin: -600px -600px;
+border-radius: 600px;
+animation: grow infinite alternate 3s;
+}
+
+#foo1:hover {
+background: #f30;
+width: 2000px;
+height: 2000px;
+margin: -25px -25px;
+border-radius: 1000px;
+
+}
