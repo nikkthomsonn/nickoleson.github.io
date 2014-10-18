@@ -1,2 +1,2 @@
-nikkthomsonn.github.io-yes
+nikkthomsonn.github.io
 ==========================
