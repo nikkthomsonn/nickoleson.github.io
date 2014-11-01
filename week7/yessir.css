@@ -1,0 +1,299 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html, body {
+height:100%; margin:0; padding:0;
+background-image: url("https://31.media.tumblr.com/d15bdeabe1196ed41a548a60ca84ea1a/tumblr_ndi0y8pFSr1tuza77o1_500.gif");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+
+
+#contains {
+  height: 2000px;
+  width: 400px;
+  position: relative; 
+  margin: -200px 0 0 -200px;
+  z-index: 7;
+   top:0%;
+  left:5%;
+}
+
+#contains2 {
+	height: 1024px;
+	width: 768px;
+	position : fixed;
+	top      :0px;
+	right    :0px;
+	z-index: 11;
+	
+}
+
+#contains3 {
+    height: 1024px;
+	width: 768px;
+	position : fixed;
+	left:45%;
+  	top:40%; 
+	margin: -295px 0 0 -334px;
+	z-index:17;}
+ 
+  .boxxxxYES {
+	height: 984px;
+	width: 892px;
+	position : absolute;
+	top      : 50px;
+	right    : -124px;
+	z-index: 19;
+	
+}
+  
+  .boxxxx111 {
+	height: 400px;
+	width: 340px;
+	top:30%;
+	position: absolute;
+	transform: translate(50%, 50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(50%, 50%);
+	-ms-transform: translate(-50%, -50%);
+	z-index: 10;  
+  
+}
+ .boxxxx111:hover {
+	 height: 100%;
+	 width: 100%;
+	 left:30%;
+  	top:55%; 
+	  -moz-transform: scale(1.9);
+  background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 10;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;}
+	 
+	 .boxxxxXX {
+   height: 600px;
+  width: 400px;
+  left:60%;
+  	top:30%; 
+  position: fixed;
+  transform: translate(60%, 60%);    
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(50%, 50%);
+    -ms-transform: translate(-50%, -50%);
+   z-index: 19;
+  
+  
+}
+ .boxxxxXX:hover {
+	 position:fixed;
+	 height: 50%;
+	 width: 50%;
+	 left:30%;
+  	top:50%; 
+	  -moz-transform: scale(2.6);
+  background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;}
+	 
+.banner {
+	width:551px;
+	height: 984px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;;
+	
+	 }
+	 .banner2 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+	background-repeat: repeat;
+	overflow:display;}
+	
+	 }
+	  .banner3 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	
+	 }
+	
+	 .banner4 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	
+	 }
+  
+
+.boxxxx6 {
+  height: 1204px;
+  width: 1100px;
+  position:absolute;
+  margin: 0;
+  padding: 0;
+  z-index: 17;
+  
+}
+  
+  @media (min-width:1px) and (max-width:480px){
+	
+	body{
+		html, body {
+height:100%; margin:0; padding:0;
+		background-image:url("https://41.media.tumblr.com/44306b1d5b46eff78cb46a641b03ae02/tumblr_nbuop4w7yS1tuza77o1_500.jpg");
+		background-position: center,center;
+		 background-repeat: no-repeat;
+		background-size: cover;}
+		
+		#contains {
+  height: 800px;
+  width: 480px;
+  position: relative; 
+  margin: -200px 0 0 -200px;
+  z-index: 7;
+   top:0%;
+  left:5%;
+}
+
+#contains2 {
+	height: 800px;
+	width: 480px;
+	position : fixed;
+	top      :0px;
+	right    :0px;
+	z-index: 11;
+	
+}
+
+#contains3 {
+    height: 800px;
+	width: 480px;
+	position : fixed;
+	left:45%;
+  	top:40%; 
+	margin: -295px 0 0 -334px;
+	z-index:17;}
+ 
+  .boxxxxYES {
+	height: 984px;
+	width: 892px;
+	position : absolute;
+	top      : 50px;
+	right    : -124px;
+	z-index: 19;
+	
+}
+  
+  .boxxxx111 {
+	height: 400px;
+	width: 340px;
+	top:30%;
+	position: absolute;
+	transform: translate(50%, 50%);
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(50%, 50%);
+	-ms-transform: translate(-50%, -50%);
+	z-index: 10;  
+  
+}
+ .boxxxx111:hover {
+	 height: 100%;
+	 width: 100%;
+	 left:30%;
+  	top:55%; 
+	  -moz-transform: scale(1.9);
+  background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 10;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;}
+	 
+	 .boxxxxXX {
+   height: 600px;
+  width: 400px;
+  left:60%;
+  	top:30%; 
+  position: fixed;
+  transform: translate(60%, 60%);    
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(50%, 50%);
+    -ms-transform: translate(-50%, -50%);
+   z-index: 19;
+  
+  
+}
+ .boxxxxXX:hover {
+	 position:fixed;
+	 height: 50%;
+	 width: 50%;
+	 left:30%;
+  	top:50%; 
+	  -moz-transform: scale(2.6);
+  background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;}
+	 
+.banner {
+	width:551px;
+	height: 984px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+background-repeat: repeat;
+overflow:display;;
+	
+	 }
+	 .banner2 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	 background-size: cover;
+	background-repeat: repeat;
+	overflow:display;}
+	
+	 }
+	  .banner3 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	
+	 }
+	
+	 .banner4 {
+	width:551px;
+	height: 20px;
+	 background-image: url("https://33.media.tumblr.com/5407eb4829174cdd3924c2f061b1abf5/tumblr_nebo1cETMb1tuza77o1_500.gif");
+	 z-index: 19;
+	
+	 }
+  
+
+.boxxxx6 {
+  height: 1204px;
+  width: 1100px;
+  position:absolute;
+  margin: 0;
+  padding: 0;
+  z-index: 17;
+  
+}
+
+
