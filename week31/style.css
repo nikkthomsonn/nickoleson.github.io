@@ -146,6 +146,16 @@ background-attachment: fixed;
 	
 }
 
+# h2 {
+	
+	top: 40px;
+	margin-left:50px;
+	font-family: Helvetica, sans-serif;
+	font-size: 5em;
+	
+	
+	
+}
 #b {
 	background-image: url('https://38.media.tumblr.com/561e666bdf35d47ff9a7abd0846862a1/tumblr_nfzaiozd4b1tuza77o1_1280.jpg');
 	background-size: cover;
