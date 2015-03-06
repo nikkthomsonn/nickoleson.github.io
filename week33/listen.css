@@ -23,7 +23,7 @@ section {
 
 
 #a {
-	background: #ccc;
+	background: #fff;
 	position: relative;
 
 }
@@ -42,10 +42,8 @@ section {
 }
 
 #b {
-	background-image: url('https://31.media.tumblr.com/9a4fd8ddf4b1db2121effccb2cfaa6a4/tumblr_nglt216vWg1tuza77o1_1280.png');
-	background-size: cover;
-	background-position: center center;
-	background-attachment: fixed;
+background: #fff;
+	position: relative;
 	
 }
 
