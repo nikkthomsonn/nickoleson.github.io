@@ -25,10 +25,7 @@ section {
 #a {
 	background: #ccc;
 	position: relative;
-	background-image: url('https://33.media.tumblr.com/a6e2679e8514020401dd9257ba52e279/tumblr_nglthcnG7v1tuza77o1_1280.png');
-background-size: cover;
-background-position: center center;
-background-attachment: fixed;
+
 }
 
 # h1 {
