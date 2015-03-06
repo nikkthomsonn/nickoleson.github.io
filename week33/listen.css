@@ -1,17 +1,27 @@
-* {
-	box-sizing: border-box;
-}
-
 body {
-	margin: 0;
-	font-family: "Raleway", sans-serif;
-	background-color:#000;
+	background-color: #000;
 }
 
-section {
-	width: 100vw;
-	height: 100vh;
+table {
+	
+	margin-right:auto;
+	text-align:left;
+    width: 100%;
+	border-collapse: collapse;
+	z-index:-1;
+	height:100%;
 }
+
+td {
+	top:0px;
+	left:25px;
+	width:200px;
+	height:200px;
+	 vertical-align: inherit;
+}
+ tr {
+	 width:100%;
+ }
 
 #kindBalls{
 	position: relative;
