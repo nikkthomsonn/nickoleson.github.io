@@ -10,9 +10,9 @@ table {
 	margin-right:auto;
 	text-align:left;
     width: 100%;
-	height:100%;
 	border-collapse: collapse;
 	z-index:-1;
+	height:100%;
 }
 
 td {
@@ -163,6 +163,155 @@ td {
 	display:block;
 }
 
+@media (max-width: 600px){
+	
+	table {
+	
+	margin-right:auto;
+	text-align:left;
+    width: 50%;
+	border-collapse: collapse;
+	z-index:-1;
+	height:100%;
+}
+
+td {
+	top:0px;
+	left:25px;
+	width:100px;
+	height:200px;
+	 vertical-align: inherit;
+}
+ tr {
+	 width:50%;
+ }
+.yes1{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:150px;
+	width:187.5px;
+	display:block;
+}
+
+
+
+
+.yes2{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+
+.yes3{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+
+.yes4{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes5{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes6{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes7{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes8{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes9{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+
+.yes10{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes11{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+.yes12{
+	margin-right:auto;
+	text-align:left;
+	 padding:0;
+	z-index:-1;
+	height:300px;
+	width:375px;
+	display:block;
+}
+
+}
 
 .clear {
     clear: both;
