@@ -65,60 +65,10 @@ background-image: url(''); background-repeat:no-repeat;
 	 
 }
 
-#s
-{
-	background-color:000000;
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	left: 0;
-	z-index:99;
-	margin-bottom:0;
-	opacity:.2;
-	background-image: url('');
-       background-position: center center center center;
-	   background-size: cover;
-	   background-repeat:no-repeat;
-	overflow:visible;
-	perspective: 1px;
-transform-style: preserve-3d;}
-
-#s:hover
-{ 
-	background-color:000000;
-	position: fixed;
-	width: 100%;
-	height: 200%;
-	top:0;
-	left: 0;
-	z-index:99;
-	margin:0;
-	opacity:.6;
-	background-image: url('');
-       background-position:  center center center center center center center center;
-	   background-size:300%;
-	    background-repeat:no-repeat;
-	   perspective: 1px;
-	transform-style: preserve-3d;
-  	overflow:visible;}
 
 
-#s2
-{
-	background-color:000000;
-	position: fixed;
-	width: 100%;
-	height: 200%;
-	left: 0;
-	z-index:99;
-	margin:0;
-	background-image: url('');
-       background-position: center center center center;
-	   background-size: cover;
-	    background-repeat:no-repeat;
-	overflow:visible;
-	perspective: 1px;
-transform-style: preserve-3d;}
+
+
 
 
 
