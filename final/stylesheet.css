@@ -49,7 +49,7 @@ a:active {
 
 
 #p {
-
+background-color:000000;
 position:fixed;
 width: 100%;
 height:100%;
@@ -67,7 +67,7 @@ background-image: url(''); background-repeat:no-repeat;
 
 #s
 {
-	
+	background-color:000000;
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -85,6 +85,7 @@ transform-style: preserve-3d;}
 
 #s:hover
 { 
+	background-color:000000;
 	position: fixed;
 	width: 100%;
 	height: 200%;
@@ -104,7 +105,7 @@ transform-style: preserve-3d;}
 
 #s2
 {
-	
+	background-color:000000;
 	position: fixed;
 	width: 100%;
 	height: 200%;
@@ -124,7 +125,7 @@ transform-style: preserve-3d;}
 
 #s3
 {
-	
+	background-color:000000;
 	position: fixed;
 	width: 100%;
 	height: 100%;
