@@ -173,11 +173,11 @@
      font-color: #fff;
      font-family: Helvetica;
      font-size: 150px;
-     line-height: -14;
+     line-height: -8;
  	 z-index: 100;
  	 top:0;
  	 left:0;
- 	 overflow:hidden;
+ 	 overflow:visible;
  }
  
  #p4 {
